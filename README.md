@@ -78,11 +78,11 @@ Currently studying at [African Leadership University](https://www.alueducation.c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tibyishaka&theme=dark&hide_border=true&include_all_commits=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=tresor-01&theme=dark&hide_border=true&show_icons=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=tibyishaka&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=tresor-01&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibyishaka&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tresor-01&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
