@@ -17,8 +17,6 @@ Currently studying at [African Leadership University](https://www.alueducation.c
 ---
 
 ## 🧭 About me
-
-- 🔭 Currently building: **[Your project name]** — a short description of what it does
 - 🌱 Learning: PyTorch, ML pipelines, and data visualization with Plotly & Dash
 - 🔐 Side passion: cybersecurity — I like understanding how things break
 - 📚 Book nerd who thinks good engineering and good writing have a lot in common
