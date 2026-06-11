@@ -18,7 +18,7 @@ Currently studying at [African Leadership University](https://www.alueducation.c
 
 ## 🧭 About me
 - 🌱 Learning: PyTorch, ML pipelines, and data visualization with Plotly & Dash
-- 🔐 Side passion: cybersecurity — I like understanding how things break
+- 🔐 Side passion: cybersecurity  I like understanding how things break
 - 📚 Book nerd who thinks good engineering and good writing have a lot in common
 - 💬 Ask me about React, Flutter, or navigating tech as a developer in Africa
 - 🤝 Open to: frontend/full-stack roles, open source collabs, and interesting problems
